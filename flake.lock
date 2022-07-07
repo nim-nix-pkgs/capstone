@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656300813,
-        "narHash": "sha256-9P7rIJsxg4pCBDkQ21SKWNmt6ISrKXdjf9Us2Qs5Jaw=",
+        "lastModified": 1656746664,
+        "narHash": "sha256-BZwUJQA2W1k4J+haywhSf0/UDjD44S56B30kCzPJ7FM=",
         "owner": "nim-nix-pkgs",
         "repo": "capstone",
-        "rev": "cadd28caf62b418f35270e432e2ae2fdd921b741",
+        "rev": "5820d27691507079c2a68b6f5be96c2dc0dfb0d9",
         "type": "github"
       },
       "original": {
@@ -70,11 +70,11 @@
     "src-capstone-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1653084246,
-        "narHash": "sha256-G2YzJHLfub5yQ7BIlYPmciqniaZOBTbCIATMWz4qN+Q=",
+        "lastModified": 1656523359,
+        "narHash": "sha256-M5g6UOBtYj6AuMhtfjqXtixTa4XOqxjkGUFbmAFpyBE=",
         "owner": "hdbg",
         "repo": "capstone-nim",
-        "rev": "684ab1640fe731030dd54a074f94615a995d990a",
+        "rev": "fc1ffdb55b0fcdc7f670455f45c382bf8e2c8ee6",
         "type": "github"
       },
       "original": {
